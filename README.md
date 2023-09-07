@@ -1,9 +1,9 @@
 <h1 align="center">Hello there. I'm Dennis</h1>
 <h3 align="center">Backend Software Engineer </h3>
 
-<!--
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dennis824&label=Profile%20views&color=0e75b6&style=flat" alt="dennis824" /> </p>
--->
+
 Nice to meet you!
 
 <h3 align="left">🛠️ Languages and Tools</h3>
