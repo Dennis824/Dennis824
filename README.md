@@ -1,9 +1,9 @@
 <h1 align="center">Hello there. I'm Denis</h1>
 <h3 align="center">Backend Software Engineer </h3>
 
-
+<div align="left">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kochemaskin&label=Profile%20views&color=0e75b6&style=flat" alt="Kochemaskin" /> </p>
-
+</div>
 Nice to meet you!
 
 <h3 align="left">🛠️ Languages and Tools</h3>
@@ -17,8 +17,12 @@ Nice to meet you!
     <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
+<div align="center">
+  <a href="https://github.com/kochemaskin">
+   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kochemaskin&layout=compact&theme=dracula"/>
+</div>
+  
 
-
-
-
-<p style="text-align: center;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kochemaskin&" alt="Kochemaskin" /></p>
+<div align="center">
+<p style="text-align: left;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kochemaskin&" alt="Kochemaskin" /></p>
+</div>
