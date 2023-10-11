@@ -2,7 +2,7 @@
 <h3 align="center">Backend Software Engineer </h3>
 
 <div align="left">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kochemaskin&label=Profile%20views&color=0e75b6&style=flat" alt="Kochemaskin" /> </p>
+<p > <img src="https://komarev.com/ghpvc/?username=Kochemaskin&label=Profile%20views&color=0e75b6&style=flat" alt="Kochemaskin" /> </p>
 </div>
 Nice to meet you!
 
