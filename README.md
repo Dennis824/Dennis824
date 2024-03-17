@@ -24,5 +24,25 @@ Nice to meet you!
   
 
 <div align="center">
-<p style="text-align: left;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kochemaskin&" alt="Kochemaskin" /></p>
+<!-- <p style="text-align: left;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kochemaskin&" alt="Kochemaskin" /></p> -->
 </div>
+<p align="center">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=kochemaskin&theme=gruvbox-duo&border_radius=&card_width=470&dates=EBEBEB&sideLabels=EB5454" alt="GitHub Streak" />
+</p>
+
+
+<p align="center">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kochemaskin&theme=algolia" alt="kochemaskin" />
+</p>
+
+<p align="center">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ad-munir&theme=algolia" alt="kochemaskin" />
+</p>
+
+<p align="center">
+
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kochemaskin&theme=algolia" alt="kochemaskin" />
+
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kochemaskin&theme=algolia" alt="kochemaskin" />
+
+</p>
