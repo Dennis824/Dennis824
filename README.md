@@ -18,9 +18,9 @@ Nice to meet you!
 </p>
 
 <div align="center">
-  <a href="https://github.com/kochemaskin">
-   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kochemaskin&layout=compact&theme=dracula"/>
-</div>
+<!--   <a href="https://github.com/kochemaskin"> -->
+<!--    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kochemaskin&layout=compact&theme=dracula"/> -->
+<!-- </div> -->
   
 
 <div align="center">
